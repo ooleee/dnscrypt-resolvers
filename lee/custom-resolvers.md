@@ -22,19 +22,9 @@ To use that list, add this to the `[sources]` section of your
 
 --
 
-## adguard-dns-doh
+## adguard-dns-doq-ipad-mini
 
-Remove ads and protect your computer from malware (over DoH)
+sdns://BAcAAAAAAAAADDk0LjE0MC4xNC40OQAfZmNmZmFmMTMuZC5hZGd1YXJkLWRucy5jb206ODg1Mw
 
-sdns://AgMAAAAAAAAADzE3Ni4xMDMuMTMwLjEzMCCaOjT3J965vKUQA9nOnDn48n3ZxSQpAcK6saROY1oCGQ9kbnMuYWRndWFyZC5jb20KL2Rucy1xdWVyeQ
-
-
-## alidns-doh
-
-A public DNS resolver that supports DoH/DoT in mainland China, provided by Alibaba-Cloud.
-
-Warning: GFW filtering rules are applied by that resolver.
-
-Homepage: https://alidns.com/
-
-sdns://AgAAAAAAAAAACTIyMy41LjUuNSAUZf-XFWhwvjDwNPWQzx8E3VDwpSDoT4pSfpwaLofrgA5kbnMuYWxpZG5zLmNvbQovZG5zLXF1ZXJ5
+## adguard-dns-doq-ipad-mini-ipv6
+sdns://BAcAAAAAAAAAE1syYTEwOjUwYzA6OmRlZDpmZl0AH2ZjZmZhZjEzLmQuYWRndWFyZC1kbnMuY29tOjg4NTM
